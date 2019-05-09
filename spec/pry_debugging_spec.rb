@@ -9,7 +9,3 @@ describe "#plus_two" do
     num 
     binding.pry
 end
-
-	
-
-end
